@@ -1,26 +1,19 @@
-```
-       ┌─┐       ┌─┐
-    ┌──┘ ┴───────┘ ┴──┐
-    │                 │
-    │       ───       │
-    │  ─┬┘       └┬─  │
-    │                 │
-    │       ─┴─       │
-    │                 │
-    └───┐         ┌───┘
-        │         │
-        │         │
-        │         │
-        │         └──────────────┐
-        │                        │
-        │                        ├─┐
-        │                        ┌─┘
-        │                        │
-        └─┐  ┐  ┌───────┬──┐  ┌──┘
-          │ ─┤ ─┤       │ ─┤ ─┤
-          └──┴──┘       └──┴──┘
-              神兽保佑
-              代码无BUG!
-```
+<!--
+**Autokaka/Autokaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-除了CV, 咱啥也不会呢TwT
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+![Autokaka's github stats](https://github-readme-stats.vercel.app/api?username=Autokaka&show_icons=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Autokaka&hide=HTML&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
