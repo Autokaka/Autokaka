@@ -1,6 +1,7 @@
 ### 📝 Current focusing
 
 - Graphics Engine
+- WAMR, WebAssembly, AssemblyScript
 - Modern C++, TypeScript
 
 <div>
