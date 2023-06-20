@@ -1,5 +1,5 @@
 ### 📝 Currently focusing on
 
-- Graphics Engine
+- Game Engine
 - Modern C++, TypeScript, AssemblyScript
 - WAMR, WebAssembly, Emscripten
