@@ -1,3 +1,7 @@
+🙋 Giving users with no other way is always the best way.
+
+🚀 Keeping the open-source project proud forever, or never.
+
 ### 📝 Currently focusing on
 
 - Game Engine
