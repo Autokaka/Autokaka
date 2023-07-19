@@ -1,6 +1,6 @@
 🥶 Not an open-source project enthusiast.
 
-🙋 Giving users with no other way is always the best way.
+🙋 Providing users with no other choice is always the best choice.
 
 🚀 Keeping the open-source project proud forever, or never.
 
