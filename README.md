@@ -4,6 +4,8 @@
 
 🚀 Keeping the open-source project proud forever, or never.
 
+🤔 Dream bigger, coding less.
+
 ### 📝 Currently focusing on
 
 - Game Engine
